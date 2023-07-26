@@ -1,5 +1,16 @@
 # vrw-t
 
+If you wish to localize VRWare to your language, please contact me on the `#vrware` channel on Discord first:
+
+- https://discord.gg/58fWAUTYF8
+
+A localization document is available here:
+
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vQ228ptWygtec6cS2NX4gcKjv2k3l-Xj6UM_CNJsvB5Gb-mMy9_lsw2p_wHv37Tlh_48PzBJ1ysgTLb/pubhtml?gid=235814974&single=true
+
+[![image](https://github.com/hai-vr/vrw-t/assets/60819407/1a2c32ba-a3a2-48a6-805e-b25bb8115f1b)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ228ptWygtec6cS2NX4gcKjv2k3l-Xj6UM_CNJsvB5Gb-mMy9_lsw2p_wHv37Tlh_48PzBJ1ysgTLb/pubhtml?gid=235814974&single=true)
+
+
 ## Lookup table
 
 - `lookup.json` - [Lookup table](lookup.json)
