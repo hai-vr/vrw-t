@@ -14,4 +14,4 @@
 
 ## 32xx USER-CREATED
 
-- `3201.json` - [3201.json] Traditional Chinese
+- `3201.json` - [3201.json](3201.json) Traditional Chinese
