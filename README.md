@@ -27,6 +27,7 @@ A localization document is available here:
 
 ## 32xx USER-CREATED
 
-- `3201.json` - [3201.json](3201.json) Traditional Chinese
+- `3201.json` - [Traditional Chinese](3201.json) 
+- `3202.json` - [Simplified Chinese](3202.json)
 
 *Codes from 3200 to 3299 are hard-coded to load URLs from `https://hai-vr.github.io/vrw-t/{CODE}.json`*
