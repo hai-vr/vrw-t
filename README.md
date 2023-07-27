@@ -10,6 +10,9 @@ A localization document is available here:
 
 [![image](https://github.com/hai-vr/vrw-t/assets/60819407/1a2c32ba-a3a2-48a6-805e-b25bb8115f1b)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ228ptWygtec6cS2NX4gcKjv2k3l-Xj6UM_CNJsvB5Gb-mMy9_lsw2p_wHv37Tlh_48PzBJ1ysgTLb/pubhtml?gid=235814974&single=true)
 
+To try your localization file, you can host the file online* and paste the URL into the Community Translations panel inside the [Experimental VRWare](https://vrchat.com/home/launch?worldId=wrld_3f2c0912-dd04-4e1e-a78b-0c27620b18c6) world.
+
+**Trusted URLs are described in [VRChat's String Loading document](https://creators.vrchat.com/worlds/udon/string-loading/).*
 
 ## Lookup table
 
