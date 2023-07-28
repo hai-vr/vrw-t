@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "language": "English",
+      "code": 3001,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3001.json",
+      "category": "OFFICIAL",
+      "authors": ["Haï~"],
+      "reviewers": []
+    },
+    {
+      "language": "日本語",
+      "code": 3002,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3002.json",
+      "category": "OFFICIAL",
+      "authors": ["【ヴィック】Vic"],
+      "reviewers": ["Tony_Lewis", "Potato"]
+    },
+    {
+      "language": "한국어",
+      "code": 3003,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3003.json",
+      "category": "OFFICIAL",
+      "authors": ["Terry_HF"],
+      "reviewers": ["Siromori"]
+    },
+    {
+      "language": "Español",
+      "code": 3004,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3004.json",
+      "category": "OFFICIAL",
+      "authors": ["Chipi"],
+      "reviewers": []
+    },
+    {
+      "language": "Français",
+      "code": 3005,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3005.json",
+      "category": "OFFICIAL",
+      "authors": ["Haï~"],
+      "reviewers": []
+    }
+  ]
+}
