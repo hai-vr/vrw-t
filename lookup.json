@@ -41,7 +41,8 @@
       "reviewers": []
     },
     {
-      "language": "Traditional Chines",
+      "language": "Traditional Chinese",
+      "annotation": "Traditional Chinese",
       "code": 3201,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3201.json",
       "category": "USER-CREATED",
@@ -50,6 +51,7 @@
     },
     {
       "language": "Simplified Chinese",
+      "annotation": "Simplified Chinese",
       "code": 3202,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3202.json",
       "category": "USER-CREATED",

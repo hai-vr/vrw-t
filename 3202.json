@@ -1,4 +1,10 @@
 {
+  "_meta": {
+    "language": "繁体中文",
+    "annotation": "Simplified Chinese",
+    "authors": ["XoF_eLtTiL"],
+    "reviewers": []
+  },
   "None": "",
   "SysIntermission_GameWillStart": "游戏将在5秒内开始！",
   "SysEndgame_GameOver": "游戏结束！",
