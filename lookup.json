@@ -2,6 +2,7 @@
   "elements": [
     {
       "language": "English",
+      "annotation": "English",
       "code": 3001,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3001.json",
       "category": "OFFICIAL",
@@ -10,6 +11,7 @@
     },
     {
       "language": "日本語",
+      "annotation": "Japanese",
       "code": 3002,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3002.json",
       "category": "OFFICIAL",
@@ -18,6 +20,7 @@
     },
     {
       "language": "한국어",
+      "annotation": "Korean",
       "code": 3003,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3003.json",
       "category": "OFFICIAL",
@@ -34,6 +37,7 @@
     },
     {
       "language": "Français",
+      "annotation": "French",
       "code": 3005,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3005.json",
       "category": "OFFICIAL",
@@ -41,7 +45,7 @@
       "reviewers": []
     },
     {
-      "language": "Traditional Chinese",
+      "language": "繁體中文",
       "annotation": "Traditional Chinese",
       "code": 3201,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3201.json",
@@ -56,6 +60,15 @@
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3202.json",
       "category": "USER-CREATED",
       "authors": ["XoF_eLtTiL"],
+      "reviewers": []
+    },
+    {
+      "language": "Polski",
+      "annotation": "Polish",
+      "code": 3203,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3203.json",
+      "category": "USER-CREATED",
+      "authors": ["VRowe Futra"],
       "reviewers": []
     }
   ]
