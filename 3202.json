@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "language": "繁体中文",
+    "language": "简体中文",
     "annotation": "Simplified Chinese",
     "authors": ["XoF_eLtTiL"],
     "reviewers": []
@@ -87,7 +87,7 @@
   "GwClimb_Desktop_Hint_Click": "点击！",
   "GwClimb_Desktop_Hint_Drag": "拖动！",
   "SysLanguageSelect_Select": "选择语言！",
-  "SysLanguageSelect_ThisLanguage": "繁体中文",
+  "SysLanguageSelect_ThisLanguage": "简体中文",
   "SysLanguageSelect_TranslatedBy_Lead_One": "翻译者：{0}",
   "SysLanguageSelect_TranslatedBy_Lead_Multiple": "翻译者：{0}",
   "SysLanguageSelect_TranslatedBy_Reviewers": "审查者：{0}",

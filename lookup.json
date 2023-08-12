@@ -29,6 +29,7 @@
     },
     {
       "language": "Español",
+      "annotation": "Spanish",
       "code": 3004,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3004.json",
       "category": "OFFICIAL",
@@ -54,7 +55,7 @@
       "reviewers": []
     },
     {
-      "language": "Simplified Chinese",
+      "language": "简体中文",
       "annotation": "Simplified Chinese",
       "code": 3202,
       "unsafe_url" : "https://hai-vr.github.io/vrw-t/3202.json",
