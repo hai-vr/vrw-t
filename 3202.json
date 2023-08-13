@@ -81,5 +81,19 @@
   "GwVrwareLens_Humanoid": "拍下 {0} 的头部！",
   "GwVrwareLens_NonHumanoid": "拍下 {0} ！",
   "SysVersionLocalIsLower": "你的 VRWare 版本似乎太旧了。请试着重新进入这个世界。",
-  "SysVersionAnyoneIsHigher": "有人加入的 VRWare 版本比你的新。请快创建一个<color=orange>新的</color>
+  "SysVersionAnyoneIsHigher": "有人加入的 VRWare 版本比你的新。请快创建一个<color=orange>新的</color>传送门，前往<color=orange>新的房間</color>。",
+  "GwJPWorld": "快回答！",
+  "GwBreakTargets": "快射击目标！",
+  "GwClimb_Desktop_Hint_Click": "点击！",
+  "GwClimb_Desktop_Hint_Drag": "拖拉！",
+  "SysLanguageSelect_Select": "选择语言！",
+  "SysLanguageSelect_ThisLanguage": "简体中文",
+  "SysLanguageSelect_TranslatedBy_Lead_One": "翻译者：{0}",
+  "SysLanguageSelect_TranslatedBy_Lead_Multiple": "翻译者：{0}",
+  "SysLanguageSelect_TranslatedBy_Reviewers": "审查者：{0}",
+  "GwBasketball": "投篮！",
+  "PlayNotInGameArea": "你现在不在游戏区域内！",
+  "SysDifficultySelect_Vote": "投票选择难度！",
+  "SysDifficultySelect_NormalMode": "普通模式",
+  "SysDifficultySelect_HardMode": "困难模式"
 }
