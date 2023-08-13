@@ -2,7 +2,7 @@
   "_meta": {
     "language": "简体中文",
     "annotation": "Simplified Chinese",
-    "authors": ["XoF_eLtTiL"],
+    "authors": ["XoF_eLtTiL/狐Kon"],
     "reviewers": []
   },
   "None": "",
@@ -82,4 +82,4 @@
   "GwVrwareLens_NonHumanoid": "拍下 {0} ！",
   "SysVersionLocalIsLower": "你的 VRWare 版本似乎太旧了。请试着重新进入这个世界。",
   "SysVersionAnyoneIsHigher": "有人加入的 VRWare 版本比你的新。请快创建一个<color=orange>新的</color>
-
+}
