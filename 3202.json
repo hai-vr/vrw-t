@@ -95,5 +95,6 @@
   "PlayNotInGameArea": "你现在不在游戏区域内！",
   "SysDifficultySelect_Vote": "投票选择难度！",
   "SysDifficultySelect_NormalMode": "普通模式",
-  "SysDifficultySelect_HardMode": "困难模式"
+  "SysDifficultySelect_HardMode": "困难模式",
+  "GwTeamHitBullseye2023_PistolExactly": "所有人，总共只要击中 {0} 次"
 }
