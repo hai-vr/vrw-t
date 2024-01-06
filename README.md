@@ -33,5 +33,7 @@ The URL is subject to Trusted URLs restrictions as described in [VRChat's String
 - `3201.json` - [繁體中文](3201.json) Traditional Chinese
 - `3202.json` - [简体中文](3202.json) Simplified Chinese
 - `3203.json` - [Polski](3203.json) Polish
+- `3204.json` - [Русский](3204.json) Russian
+- `3205.json` - [󱥬󱦖󱥔](3205.json) Sitelen Pona
 
 *Codes from 3200 to 3299 are hard-coded to load URLs from `https://hai-vr.github.io/vrw-t/{CODE}.json`*
