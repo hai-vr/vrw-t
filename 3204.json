@@ -1,4 +1,10 @@
 ﻿{
+  "_meta": {
+    "language": "Русский",
+    "annotation": "Russian",
+    "authors": ["Belka"],
+    "reviewers": []
+  },
 "None" : "",
 "SysIntermission_GameWillStart" : "Игра начнётся через 5 секунд!",
 "SysEndgame_GameOver" : "Конец!",
