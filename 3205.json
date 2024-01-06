@@ -1,4 +1,11 @@
 {
+  "_meta": {
+    "language": "󱥬󱦖󱥔",
+    "annotation": "Sitelen Pona",
+    "authors": ["fuopy"],
+    "reviewers": [],
+    "hideEnglish": true
+  },
 "None" : "",
 "SysIntermission_GameWillStart" : "󱥫󱤨󱤭󱤖󱤡󱤻󱤧󱥇󱤀",
 "SysEndgame_GameOver" : "󱤻󱤧󱥐",
