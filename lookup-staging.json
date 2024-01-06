@@ -1,0 +1,94 @@
+{
+  "elements": [
+    {
+      "language": "English",
+      "annotation": "English",
+      "code": 3001,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3001.json",
+      "category": "OFFICIAL",
+      "authors": ["Haï~"],
+      "reviewers": []
+    },
+    {
+      "language": "日本語",
+      "annotation": "Japanese",
+      "code": 3002,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3002.json",
+      "category": "OFFICIAL",
+      "authors": ["【ヴィック】Vic"],
+      "reviewers": ["Tony_Lewis", "Potato"]
+    },
+    {
+      "language": "한국어",
+      "annotation": "Korean",
+      "code": 3003,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3003.json",
+      "category": "OFFICIAL",
+      "authors": ["Terry_HF"],
+      "reviewers": ["Siromori"]
+    },
+    {
+      "language": "Español",
+      "annotation": "Spanish",
+      "code": 3004,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3004.json",
+      "category": "OFFICIAL",
+      "authors": ["Chipi"],
+      "reviewers": []
+    },
+    {
+      "language": "Français",
+      "annotation": "French",
+      "code": 3005,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3005.json",
+      "category": "OFFICIAL",
+      "authors": ["Haï~"],
+      "reviewers": []
+    },
+    {
+      "language": "繁體中文",
+      "annotation": "Traditional Chinese",
+      "code": 3201,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3201.json",
+      "category": "USER-CREATED",
+      "authors": ["XoF_eLtTiL/狐Kon"],
+      "reviewers": []
+    },
+    {
+      "language": "简体中文",
+      "annotation": "Simplified Chinese",
+      "code": 3202,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3202.json",
+      "category": "USER-CREATED",
+      "authors": ["XoF_eLtTiL/狐Kon"],
+      "reviewers": []
+    },
+    {
+      "language": "Polski",
+      "annotation": "Polish",
+      "code": 3203,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3203.json",
+      "category": "USER-CREATED",
+      "authors": ["VRowe Futra"],
+      "reviewers": []
+    },
+    {
+      "language": "Русский",
+      "annotation": "Russian",
+      "code": 3204,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3204.json",
+      "category": "USER-CREATED",
+      "authors": ["Belka"],
+      "reviewers": []
+    },
+    {
+      "language": "󱥬󱦖󱥔",
+      "annotation": "Sitelen Pona",
+      "code": 3205,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3205.json",
+      "category": "USER-CREATED",
+      "authors": ["fuopy"],
+      "reviewers": []
+    }
+  ]
+}
