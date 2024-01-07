@@ -71,6 +71,24 @@
       "category": "USER-CREATED",
       "authors": ["VRowe Futra"],
       "reviewers": []
+    },
+    {
+      "language": "Русский",
+      "annotation": "Russian",
+      "code": 3204,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3204.json",
+      "category": "USER-CREATED",
+      "authors": ["Belka"],
+      "reviewers": []
+    },
+    {
+      "language": "󱥬󱦖󱥔",
+      "annotation": "Sitelen Pona",
+      "code": 3205,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3205.json",
+      "category": "USER-CREATED",
+      "authors": ["fuopy"],
+      "reviewers": []
     }
   ]
 }
