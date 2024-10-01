@@ -1,4 +1,10 @@
 {
+"_meta": {
+    "language": "Deutsch",
+    "annotation": "German",
+    "authors": ["EXPLOSION MURDER GOD DYNAMITE"],
+    "reviewers": []
+},
 "None" : "",
 "SysIntermission_GameWillStart" : "Spiel Startet in 5 sekunden!",
 "SysEndgame_GameOver" : "Verloren!",

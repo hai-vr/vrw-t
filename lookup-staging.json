@@ -89,6 +89,15 @@
       "category": "USER-CREATED",
       "authors": ["fuopy"],
       "reviewers": []
+    },
+    {
+      "language": "Deutsch",
+      "annotation": "German",
+      "code": 3206,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3206.json",
+      "category": "USER-CREATED",
+      "authors": ["EXPLOSION MURDER GOD DYNAMITE"],
+      "reviewers": []
     }
   ]
 }
