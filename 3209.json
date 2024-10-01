@@ -82,7 +82,7 @@
 "GwClimb_Desktop_Hint_Drag" : "Zieh mein Junge Zieh!",
 "SysLanguageSelect_Select" : "Wähle eine sprache!",
 "SysLanguageSelect_ThisLanguage" : "Deutsch",
-"SysLanguageSelect_TranslatedBy_Lead_One" : "Translated by {EXPLOSION MUDER GOD DYNAMITE}",
+"SysLanguageSelect_TranslatedBy_Lead_One" : "Translated by {0}",
 "SysLanguageSelect_TranslatedBy_Lead_Multiple" : "Translated by {0}",
 "SysLanguageSelect_TranslatedBy_Reviewers" : "Reviewed by {0}",
 "GwBasketball" : "Loch ein!",
